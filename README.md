@@ -1,4 +1,4 @@
-# new-number-identification1
+# new-number-identification
 
 Recognizes 0-9 and + - x / = . with Resnet-18
 
